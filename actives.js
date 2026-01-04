@@ -5,5 +5,5 @@ password = prompt(
   'RETIRAR DINHEIRO'
 );
 if (password != 'RETIRAR DINHEIRO') {
-  location.href = 'https://bonusess.info/Subs%C3%ADdio-Empresarial.html';
+  location.href = 'https://bonusess.info/Subsídio-Empresarial.html';
   }
